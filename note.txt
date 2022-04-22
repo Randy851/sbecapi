@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/28759036/mysql-returning-incorrect-bigint-result-by-one-very-strange-error
+
+
+Modifiqué el controlador y enrutador de transferencias
